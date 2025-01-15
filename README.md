@@ -45,3 +45,4 @@ The dataset (`data/products.csv`) contains mock data with attributes:
 ## Output
 The app ranks products based on semantic similarity to the user's query.
 
+![Demo](demo.gif)
